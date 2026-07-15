@@ -12,9 +12,9 @@ import pathlib
 import matplotlib.pyplot as plt
 
 
-datamnist='/Users/delio/Documents/Working_projects/Balazs/Experiments/MNIST/data_mnist'
+#datamnist=""
 #transform and path for brain data set
-datacifar10="/Users/delio/Documents/Current_working_projects/data"
+#datacifar10=""
 
 def load_data_set(name="cifar10"):
     if name == "cifar10":
