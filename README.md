@@ -16,3 +16,5 @@
 5. Run the file games_local.py.
    
    You can access results in results_local/dataset_name.
+
+6. To run the downstream tasks experiments and compute the times use the files in the folder downstrem_times
